@@ -4,7 +4,7 @@ A small weather app built with React + Open-Meteo. Enter a city name to see the 
 
 ## 🚀 Live Demo
 
-[Click here to view](https://your-deploy-link)
+[[Click here to view](https://yq6lns-5173.csb.app/)
 
 ## 🛠️ Run Locally
 
