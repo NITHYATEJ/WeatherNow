@@ -24,7 +24,8 @@ Open-Meteo Geocoding API
 
 Open-Meteo Forecast API
 
-Open-Meteo Geocoding API sometimes doesn’t return the country name the way you expect.
+Open-Meteo Geocoding API sometimes doesn’t return the country name the way you expect:-
+I hardcoded "India" in the geocoding result selection to avoid city name ambiguities (e.g., Hyderabad exists in multiple countries). This ensures the app fetches accurate weather data for Indian users, with a fallback to the first result if no Indian match is found.
 
 ✨ Features
 
